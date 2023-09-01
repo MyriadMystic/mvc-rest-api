@@ -1,0 +1,19 @@
+20230827	16:27:46	98efa3de-091a-48b1-a16c-6ec4cea33e7a	TypeError	fsPromises.readFil is not a function
+20230827	16:28:31	e732091f-1273-49dd-acb9-f5d51ec3ff90	TypeError	fsPromises.readFil is not a function
+20230827	16:28:32	43784cd7-8a15-4d7c-8739-c60bdd28fbd5	TypeError	fsPromises.readFil is not a function
+20230827	19:28:00	a545a3bc-6b69-45cc-b53a-eb1130212838	Error: Not allowed by CORS
+20230828	00:54:57	769c99bd-6d57-4ab1-badb-9bc740abc731	TypeError: data.employees.length is not a function
+20230828	01:23:10	ad4ce060-fdb1-434e-9bd1-9de7cddcd036	SyntaxError: Unexpected token i in JSON at position 40
+20230828	01:23:35	b988cc72-975f-4785-a9ec-3ab63a8bae5e	SyntaxError: Unexpected token f in JSON at position 10
+20230828	01:26:52	5b17c8de-8e23-428f-bd99-fb26360c7b51	ReferenceError: newEmployee is not defined
+20230831	14:23:13	e65ff47f-d813-4a49-b414-c613d686569a	TypeError: Cannot read properties of undefined (reading 'split')
+20230831	14:45:43	49b982b1-95be-4cab-a876-6388ea62ec16	ReferenceError: request is not defined
+20230831	14:46:17	4d34706d-5030-4a4f-8edb-d0736ebf27f5	ReferenceError: request is not defined
+20230831	15:18:34	705fb91d-f6f1-4907-a446-f1f264c9c757	TypeError: Cannot read properties of undefined (reading 'split')
+20230831	16:25:57	be9abe4a-75c0-4ae3-bf5b-4c2bf5a9b022	ReferenceError: whiteList is not defined
+20230831	16:25:59	84d868cd-6fba-40d7-936e-278761484238	ReferenceError: whiteList is not defined
+20230831	16:29:26	094267e2-147b-456c-bb28-b3ed616b9de5	TypeError: Cannot read properties of undefined (reading 'split')
+20230831	16:29:53	936708f0-b7d2-45ea-ad7b-e98e2fa5715b	TypeError: Cannot read properties of undefined (reading 'split')
+20230901	12:36:24	7dca1890-620a-4bf2-a549-f3dfbb682d0e	TypeError: Cannot read properties of undefined (reading 'split')
+20230901	12:40:02	1b761069-3094-4fc3-a931-fdcae3b7ff7f	TypeError: Cannot read properties of undefined (reading 'split')
+20230901	12:51:47	be0abf14-0937-44cc-8d17-c9fd79916476	SyntaxError: Unexpected token f in JSON at position 8
